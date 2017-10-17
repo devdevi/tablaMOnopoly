@@ -1,14 +1,62 @@
 body{
-	width: 500px;
+
+	width: 600px;
+
 }
-p{
-	text-align: justify;
+h4, h2, h3{
+  text-align: center;
+  padding:  2px;
+
 }
+.titulo{
+  background: orange;
+  border: 1px solid #000;
+
+}
+.antes{
+  overflow: hidden;
+  text-align: justify;
+  width: 137px;
+  height: 500px;
+  border: 1px solid #000;
+  float: left;
+  padding: 20px;
+}
+.monopoly{ 
+
+  overflow: hidden;
+  text-align:justify;
+  width: 200px;
+  height: 500px;
+  border: 1px solid #000;
+  float: left;
+  padding: 20px;
+}
+.ahora{
+  content: justify;
+  overflow: hidden;
+  text-align: justify;
+  width: 137px;
+  height: 500px;
+  border: 1px solid #000;
+  float: left;
+  padding: 20px;
+}
+
 h4, h2, h3{
 	text-align: center;
 	padding:  2px;
-
 }
+.fot{
+
+  width: 598px;
+  position: absolute;
+  border: 1px solid #000;
+  background-color: orange;
+  top: 600px;
+}
+
+/*
 table {
    width: 100%;
    border: 1px solid #000;
@@ -19,9 +67,13 @@ th, td {
    text-align:  justify;
    vertical-align: top;
    border: 1px solid #000;
-  	
+}
+
+.tt{
+
 }
 .yellow{
 	background-color: orange;
 
 }
+*/

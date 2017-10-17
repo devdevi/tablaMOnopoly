@@ -1,0 +1,27 @@
+body{
+	width: 500px;
+}
+p{
+	text-align: justify;
+}
+h4, h2, h3{
+	text-align: center;
+	padding:  2px;
+
+}
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+
+   width: 25%;
+   text-align:  justify;
+   vertical-align: top;
+   border: 1px solid #000;
+  	
+}
+.yellow{
+	background-color: orange;
+
+}
